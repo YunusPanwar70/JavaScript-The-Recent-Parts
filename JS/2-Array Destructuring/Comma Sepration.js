@@ -1,7 +1,6 @@
 const number = [1, 2, 3];
 
 let stored;
-
 [
     num1,
     num2,
